@@ -26,7 +26,6 @@ input{
     padding:2px;
     height: 30px;
     width: 400px;
-
 }
 div{
     text-align: center;
@@ -44,11 +43,9 @@ div{
 .delete:hover{
     background-color: grey;
     color:white;
-    
-}
+    }
 li{
-    
-    margin-top:5px;
+     margin-top:5px;
 }
 ul{
     margin-left: 50px;
